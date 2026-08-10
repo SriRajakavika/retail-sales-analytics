@@ -65,6 +65,16 @@ Customers were categorized into:
 | `DA_Capstone.pbix` | Power BI dashboard |
 | `retail_sales_analytics.pdf` | Project report |
 
+## 📊 Dashboard
+
+The Power BI dashboard includes:
+
+- Sales Overview
+- Stores & Staffs
+- Customer Analysis
+
+Dashboard screenshots are available in the `Screenshots` folder.
+
 ## 👩‍💻 Author
 
 **Sri Rajakavika Palanivel** 
